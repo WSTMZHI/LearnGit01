@@ -1,1 +1,2 @@
 this is a file for learn Git
+git is a free software
